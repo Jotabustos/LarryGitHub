@@ -1,4 +1,4 @@
-# Larry Plotter
+# Larry Plotter y sus historias
 
 * Larry Plotter y El Bucle Filosofal
 * Larry Plotter y La Clave Secreta del Wifi
