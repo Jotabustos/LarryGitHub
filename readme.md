@@ -2,4 +2,4 @@
 
 Esta serie de libros cuentan la historia de un hacker que está rotito
 
-**Jota Bustos**
+**Jota Bustos**, Onlythereal90
